@@ -6,6 +6,7 @@
 
 Before you begin, ensure you have the following installed and configured:
 
+### IMPORTANT! Please download from our server for the source as it is too big to upload.
 ### Unreal Engine
 * **Recommended Version:** Unreal Engine **5.6** or later.
     * *Note: Using earlier versions may result in compatibility issues or missing features.*
