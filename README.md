@@ -20,7 +20,7 @@ This project relies on specific versions of the Java Development Kit (JDK) and A
 
 ## 🚀 Getting Started
 
-1.  <<Download the souce code from the Link.txt or release>>
+1.  Download the souce code from the Link.txt or release
 2.  **Open the Project:**
     * Navigate to the project folder.
     * Right-click `TheApp.uproject` and select **Generate Visual Studio project files** (if on Windows).
